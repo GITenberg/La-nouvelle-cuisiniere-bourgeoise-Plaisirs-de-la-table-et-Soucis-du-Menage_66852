@@ -1,0 +1,30 @@
+_repo: La-nouvelle-cuisiniere-bourgeoise-Plaisirs-de-la-table-et-Soucis-du-Menage_66852
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Franc-Nohain
+    aliases:
+    - Nohain, Franc
+    - Grand, Maurice le
+    - Le Grand, Maurice
+    birthdate: 1873
+    deathdate: 1934
+    gutenberg_agent_id: '51055'
+    url: http://www.gutenberg.org/2009/agents/51055
+    wikipedia:
+    - https://fr.wikipedia.org/wiki/Franc-Nohain
+    - https://en.wikipedia.org/wiki/Franc-Nohain
+description: ''
+gutenberg_issued: '2021-11-30'
+identifiers:
+  gutenberg: '66852'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'La nouvelle cuisinière bourgeoise
+
+  Plaisirs de la table et Soucis du Ménage'
+url: http://www.gutenberg.org/ebooks/66852
