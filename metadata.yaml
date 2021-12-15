@@ -1,5 +1,8 @@
 _repo: La-nouvelle-cuisiniere-bourgeoise-Plaisirs-de-la-table-et-Soucis-du-Menage_66852
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 66852-h/images/cover.jpg
 creator:
   author:
     agent_name: Franc-Nohain
@@ -15,6 +18,8 @@ creator:
     - https://fr.wikipedia.org/wiki/Franc-Nohain
     - https://en.wikipedia.org/wiki/Franc-Nohain
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66852#La-nouvelle-cuisiniere-bourgeoise-Plaisirs-de-la-table-et-Soucis-du-Menage
 gutenberg_issued: '2021-11-30'
 identifiers:
   gutenberg: '66852'
